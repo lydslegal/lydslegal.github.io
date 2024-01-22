@@ -1,0 +1,2361 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #ffffff;
+  width: 1920px;
+  height: 9081px;
+  position: relative;
+  overflow: hidden;
+}
+.contact-form {
+  position: absolute;
+  inset: 0;
+}
+.background {
+  width: 1920px;
+  height: 1068px;
+  position: static;
+}
+.background2 {
+  background: linear-gradient(to left, #1f2732, #1f2732);
+  width: 1920px;
+  height: 1068px;
+  position: absolute;
+  left: 0px;
+  top: 6903px;
+  object-fit: cover;
+}
+.image {
+  width: 1920px;
+  height: 1068px;
+  position: absolute;
+  left: 0px;
+  top: 6903px;
+  overflow: visible;
+}
+.contact {
+  width: 1400px;
+  height: 649px;
+  position: static;
+}
+.background4 {
+  width: 1400px;
+  height: 649px;
+  position: absolute;
+  left: calc(50% - 701px);
+  top: 7123px;
+  overflow: visible;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 57px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1085px;
+  position: absolute;
+  left: calc(50% - 543px);
+  top: 7218px;
+}
+._1 {
+  display: flex;
+  flex-direction: row;
+  gap: 65px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1085px;
+  position: relative;
+}
+.name {
+  flex-shrink: 0;
+  width: 510px;
+  height: 41px;
+  position: static;
+}
+.line-14 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 510px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 41px;
+}
+.full-name {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mail {
+  flex-shrink: 0;
+  width: 510px;
+  height: 41px;
+  position: static;
+}
+.line-142 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 510px;
+  height: 0px;
+  position: absolute;
+  left: 575px;
+  top: 41px;
+}
+.email-address {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 575px;
+  top: 0px;
+}
+._2 {
+  display: flex;
+  flex-direction: row;
+  gap: 65px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1085px;
+  position: relative;
+}
+.number {
+  flex-shrink: 0;
+  width: 510px;
+  height: 41px;
+  position: static;
+}
+.phone-number {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.subject {
+  flex-shrink: 0;
+  width: 510px;
+  height: 41px;
+  position: static;
+}
+.subject2 {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 575px;
+  top: 0px;
+}
+._3 {
+  display: flex;
+  flex-direction: column;
+  gap: 57px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1085px;
+  position: relative;
+}
+.messge {
+  flex-shrink: 0;
+  width: 1085px;
+  height: 121px;
+  position: static;
+}
+.line-143 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 1085px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 121px;
+}
+.your-message {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170.2px;
+}
+.button {
+  background: #ffffff;
+  padding: 28px 45px 29px 45px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.get-an-appoinment {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  position: relative;
+}
+.contact2 {
+  position: absolute;
+  inset: 0;
+}
+.background5 {
+  width: 1920px;
+  height: 847px;
+  position: absolute;
+  left: 0px;
+  top: 6057px;
+  overflow: visible;
+}
+.content2 {
+  display: flex;
+  flex-direction: row;
+  gap: 131px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1400px;
+  position: absolute;
+  left: 260px;
+  top: 6257px;
+}
+.content3 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 597px;
+  position: relative;
+}
+.content4 {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 597px;
+  position: relative;
+}
+.our-expert-professional-law-team-is-always-ready-to-serve-you-the-best-solution {
+  color: #1f2732;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 45px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+  width: 597px;
+}
+.there-are-of-lorem-ipsum-available-but-the-majority-have-su-alteration-in-some-form-by-injected-oir-which-don-t-look-even-slightly-believable {
+  color: #909090;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 549px;
+}
+.button2 {
+  background: #d1b06b;
+  padding: 28px 88px 29px 88px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  position: relative;
+}
+.contact-form2 {
+  flex-shrink: 0;
+  width: 672px;
+  height: 447px;
+  position: static;
+}
+.background6 {
+  background: linear-gradient(to left, #1f2732, #1f2732);
+  width: 672px;
+  height: 447px;
+  position: absolute;
+  left: 728px;
+  top: 0px;
+  object-fit: cover;
+}
+.history-and-experiance {
+  position: absolute;
+  inset: 0;
+}
+.background7 {
+  width: 1920px;
+  height: 1483px;
+  position: absolute;
+  left: 0px;
+  top: 4574px;
+  overflow: visible;
+}
+.history-and-experience {
+  background: rgba(31, 39, 50, 0.85);
+  padding: 144px 78px 144px 78px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  height: 1082px;
+  position: absolute;
+  left: 260px;
+  top: 4775px;
+}
+.content5 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 794px;
+  position: relative;
+}
+.historiy {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 370px;
+  position: relative;
+}
+.heading {
+  flex-shrink: 0;
+  width: 370px;
+  height: 156px;
+  position: static;
+}
+.icon {
+  width: 95px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 112px;
+  overflow: visible;
+}
+.we-are-top-lawyers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 45px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image2 {
+  flex-shrink: 0;
+  width: 264px;
+  height: 778px;
+  position: static;
+}
+.background11 {
+  background: #c4c4c4;
+  width: 264px;
+  height: 778px;
+  position: absolute;
+  left: 440px;
+  top: 8px;
+}
+.photo3 {
+  width: 786px;
+  height: 1179px;
+  position: absolute;
+  left: 214px;
+  top: -252px;
+  object-fit: cover;
+}
+.experiance {
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 470px;
+  position: relative;
+}
+.content6 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 459px;
+  position: relative;
+}
+.heading2 {
+  flex-shrink: 0;
+  width: 341px;
+  height: 156px;
+  position: static;
+}
+.icon2 {
+  width: 95px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 112px;
+  overflow: visible;
+}
+.we-are-specialised-and-experienced {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 45px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.at-lyds-we-understand-the-weight-of-your-concerns-and-the-need-for-unwavering-expertise-that-s-why-we-proudly-boast-a-team-of-seasoned-lawyers-each-with-years-of-honed-skills-and-a-proven-track-record-of-success {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 459px;
+}
+.sub-content {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 470px;
+  position: relative;
+}
+.case-strength {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 470px;
+  position: relative;
+}
+._12 {
+  flex-shrink: 0;
+  width: 470px;
+  height: 48px;
+  position: static;
+}
+.digram {
+  width: 470px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+  overflow: visible;
+}
+.divorce-and-family-cases {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._75 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 500;
+  position: absolute;
+  left: 432px;
+  top: 2px;
+}
+._22 {
+  flex-shrink: 0;
+  width: 470px;
+  height: 48px;
+  position: static;
+}
+.digram2 {
+  width: 470px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 109px;
+  overflow: visible;
+}
+.property-and-construction {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+}
+._80 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 500;
+  position: absolute;
+  left: 432px;
+  top: 82px;
+}
+._32 {
+  flex-shrink: 0;
+  width: 470px;
+  height: 48px;
+  position: static;
+}
+.digram3 {
+  width: 470px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 189px;
+  overflow: visible;
+}
+.banking-and-finance {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 160px;
+}
+._752 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 500;
+  position: absolute;
+  left: 432px;
+  top: 162px;
+}
+._4 {
+  flex-shrink: 0;
+  width: 470px;
+  height: 44px;
+  position: static;
+}
+.digram4 {
+  width: 470px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 265px;
+  overflow: visible;
+}
+.banking-and-finance2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 240px;
+}
+._90 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 114.6%;
+  font-weight: 500;
+  position: absolute;
+  left: 432px;
+  top: 242px;
+}
+.button3 {
+  background: #d1b06b;
+  padding: 28px 66px 29px 66px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.free-consulting {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  position: relative;
+}
+.counters {
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1400px;
+  position: absolute;
+  left: 253px;
+  top: 3685px;
+}
+.content7 {
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 753px;
+  position: relative;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 332px;
+  position: relative;
+}
+.become-a-member-legal-protection {
+  color: #161d27;
+  text-align: center;
+  position: relative;
+}
+.become-a-member-legal-protection-span {
+  color: #161d27;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 56px;
+  line-height: 114.6%;
+  font-weight: 700;
+}
+.become-a-member-legal-protection-span2 {
+  color: #161d27;
+  font-family: "CormorantGaramond-SemiBold", sans-serif;
+  font-size: 42px;
+  line-height: 151.6%;
+  font-weight: 600;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 95px;
+  height: 44px;
+  position: static;
+}
+.line-62 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 95px;
+  height: 0px;
+  position: absolute;
+  left: 118.5px;
+  top: 168px;
+}
+.line-52 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 95px;
+  height: 0px;
+  position: absolute;
+  left: 118.5px;
+  top: 158px;
+}
+.group-4 {
+  width: 10px;
+  height: 44px;
+  position: absolute;
+  left: 161.5px;
+  top: 141px;
+  overflow: visible;
+}
+.life-s-journey-is-filled-with-unexpected-turns-some-of-which-involve-legal-crossroads-at-lyds-we-believe-everyone-deserves-access-to-reliable-legal-guidance-without-breaking-the-bank-that-s-why-we-offer-comprehensive-legal-protection-to-our-registered-members-ensuring-you-re-never-alone-when-facing-legal-challenges {
+  color: rgba(78, 85, 95, 0.83);
+  text-align: center;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 894px;
+}
+.sub-content2 {
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1400px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.icon4 {
+  position: absolute;
+  inset: 0;
+}
+.line-63 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 95px;
+  height: 0px;
+  position: absolute;
+  left: 905.5px;
+  top: 3654px;
+}
+.line-53 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 95px;
+  height: 0px;
+  position: absolute;
+  left: 905.5px;
+  top: 3644px;
+}
+.group-42 {
+  width: 10px;
+  height: 44px;
+  position: absolute;
+  left: 948.5px;
+  top: 3627px;
+  overflow: visible;
+}
+.practis-areas {
+  position: absolute;
+  inset: 0;
+}
+.background12 {
+  width: 1920px;
+  height: 1370px;
+  position: absolute;
+  left: 0px;
+  top: 2097px;
+  overflow: visible;
+}
+.content8 {
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1400px;
+  position: absolute;
+  left: 260px;
+  top: 2283px;
+}
+.content9 {
+  display: flex;
+  flex-direction: row;
+  gap: 147px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1399px;
+  position: relative;
+}
+.title2 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 360px;
+  position: relative;
+}
+.explore-our-practice-areas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 45px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.iocn {
+  flex-shrink: 0;
+  width: 95px;
+  height: 44px;
+  position: relative;
+  overflow: visible;
+}
+.line2 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 105px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas {
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 745px;
+  height: 84px;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span {
+  color: #d7d7d7;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span2 {
+  color: #d1b06b;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span3 {
+  color: #d7d7d7;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span4 {
+  color: #d1b06b;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span5 {
+  color: #d7d7d7;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.life-s-legal-challenges-can-take-many-forms-each-requiring-specific-expertise-and-unwavering-dedication-at-lyds-we-re-your-comprehensive-legal-compass-offering-a-wealth-of-experience-across-a-diverse-range-of-practice-areas-span6 {
+  color: #d1b06b;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.content10 {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1400px;
+  position: relative;
+}
+._13 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1400px;
+  position: relative;
+}
+._14 {
+  background: #1f2732;
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 448px;
+  position: relative;
+}
+.content11 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 347px;
+  position: relative;
+}
+.sub-content3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 345px;
+  position: relative;
+}
+.banking-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsum-available-but-majority-going-to-use-a-passage {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.button4 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 347px;
+  position: relative;
+}
+.line3 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 347px;
+  height: 0px;
+  position: relative;
+}
+.button5 {
+  display: flex;
+  flex-direction: row;
+  gap: 113px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 347px;
+  position: relative;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 55px;
+  height: 48px;
+  position: relative;
+  overflow: visible;
+}
+.button6 {
+  background: #161d27;
+  padding: 15px 38px 15px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+}
+._23 {
+  background: #1f2732;
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 448px;
+  position: relative;
+}
+.posh-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.button7 {
+  flex-shrink: 0;
+  width: 347px;
+  height: 89px;
+  position: relative;
+}
+.line4 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 347px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.button8 {
+  display: flex;
+  flex-direction: row;
+  gap: 105px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 179px;
+  position: absolute;
+  left: 168px;
+  top: 34px;
+}
+.gender-female-svgrepo-com {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: -7px;
+  top: 39px;
+  overflow: visible;
+}
+._33 {
+  background: #1f2732;
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 448px;
+  position: relative;
+}
+.family-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.button9 {
+  display: flex;
+  flex-direction: row;
+  gap: 99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 347px;
+  position: relative;
+}
+.icon6 {
+  flex-shrink: 0;
+  width: 56px;
+  height: 40.92px;
+  position: relative;
+  overflow: visible;
+}
+._24 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1400px;
+  position: relative;
+}
+.real-estate-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.button10 {
+  flex-shrink: 0;
+  width: 347px;
+  height: 98px;
+  position: relative;
+}
+.button11 {
+  display: flex;
+  flex-direction: row;
+  gap: 115px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 180px;
+  position: absolute;
+  left: 167px;
+  top: 34px;
+}
+.icon7 {
+  height: auto;
+  position: absolute;
+  left: 3px;
+  top: 32px;
+  overflow: visible;
+}
+.consumer-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.button12 {
+  display: flex;
+  flex-direction: row;
+  gap: 115px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 347px;
+  position: relative;
+}
+.icon8 {
+  flex-shrink: 0;
+  width: 53px;
+  height: 55.36px;
+  position: relative;
+  overflow: visible;
+}
+.insurance-law {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.button13 {
+  display: flex;
+  flex-direction: row;
+  gap: 112px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 178px;
+  position: absolute;
+  left: 169px;
+  top: 33.5px;
+}
+.protect-svgrepo-com {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 8px;
+  top: 33.5px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 11.11%;
+  left: 11.11%;
+  width: 77.78%;
+  bottom: 3.45%;
+  top: 3.45%;
+  height: 93.09%;
+  overflow: visible;
+}
+._42 {
+  background: rgba(58, 69, 83, 0.21);
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 448px;
+  position: absolute;
+  left: 233px;
+  top: 4107px;
+}
+.free-consultation {
+  color: #000000;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.enjoy-unlimited-consultations-with-our-team-of-experienced-lawyers-on-any-legal-matter {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 345px;
+}
+._5 {
+  background: rgba(58, 69, 83, 0.21);
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 448px;
+  position: absolute;
+  left: 736px;
+  top: 4107px;
+}
+.expert-advice {
+  color: #000000;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.get-clear-practical-and-personalized-guidance-from-seasoned-professionals-covering-a-wide-range-of-legal-areas {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 345px;
+}
+._6 {
+  background: rgba(58, 69, 83, 0.21);
+  padding: 58px 49px 58px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 448px;
+  position: absolute;
+  left: 1239px;
+  top: 4107px;
+}
+.affordable-protection {
+  color: #000000;
+  text-align: center;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 35px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.access-these-invaluable-benefits-for-a-low-yearly-membership-fee-making-top-tier-legal-counsel-a-reality {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 345px;
+}
+.button14 {
+  background: #d1b06b;
+  padding: 15px 38px 15px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 62px);
+  top: 3339px;
+}
+.more {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+}
+.abouts-us {
+  position: absolute;
+  inset: 0;
+}
+.background13 {
+  width: 1920px;
+  height: 1005px;
+  position: absolute;
+  left: 0px;
+  top: 1093px;
+  overflow: visible;
+}
+.content12 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1400px;
+  position: absolute;
+  left: 260px;
+  top: 1287px;
+}
+.image3 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 467px;
+  position: relative;
+}
+.image4 {
+  flex-shrink: 0;
+  width: 467px;
+  height: 293px;
+  position: static;
+}
+.background14 {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  width: 467px;
+  height: 293px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.background15 {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  width: 467px;
+  height: 293px;
+  position: absolute;
+  left: 0px;
+  top: 325px;
+  object-fit: cover;
+}
+.content13 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 883px;
+  position: relative;
+}
+.heading3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 410px;
+  position: relative;
+}
+.the-simple-choice-for-complex-litigation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 45px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.icon9 {
+  flex-shrink: 0;
+  width: 95px;
+  height: 44px;
+  position: relative;
+  overflow: visible;
+}
+.sub-content4 {
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 883px;
+  position: relative;
+}
+.sub-content5 {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 883px;
+  position: relative;
+}
+.our-relentless-pursuit-of-excellence-is-reflected-in-our-track-record-of-successful-outcomes-we-re-driven-by-a-passion-for-achieving-the-best-possible-results-for-our-clients-we-take-the-time-to-listen-understand-your-concerns-and-tailor-our-strategies-to-your-specific-goals {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 883px;
+}
+.achivement {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 631.95px;
+  position: relative;
+}
+.case-finish {
+  background: #3b434e;
+  padding: 31px 48px 31px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 115.38px;
+  position: relative;
+}
+.content14 {
+  display: flex;
+  flex-direction: row;
+  gap: 17px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 53.38px;
+  position: relative;
+}
+.icon10 {
+  flex-shrink: 0;
+  width: 55.95px;
+  height: 53.38px;
+  position: relative;
+  overflow: visible;
+}
+._95-case-success {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  line-height: 94.6%;
+  font-weight: 500;
+  position: relative;
+}
+._35-years-experiyance {
+  background: #d1b06b;
+  padding: 30px 43px 30px 43px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 116px;
+  position: relative;
+}
+.content15 {
+  display: flex;
+  flex-direction: row;
+  gap: 22px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 56px;
+  position: relative;
+}
+._35 {
+  flex-shrink: 0;
+  width: 80.05px;
+  height: 56px;
+  position: static;
+}
+.background16 {
+  border-radius: 0px;
+  width: 80.05px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._52 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 23px;
+  top: 11px;
+  width: 34.02px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.years-experiance {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  line-height: 94.6%;
+  font-weight: 500;
+  position: relative;
+}
+.banner {
+  position: absolute;
+  inset: 0;
+}
+.banner2 {
+  width: 1920px;
+  height: 1093px;
+  position: static;
+}
+.background17 {
+  background: linear-gradient(
+    to left,
+    rgba(31, 39, 50, 0.86),
+    rgba(31, 39, 50, 0.86)
+  );
+  width: 1920px;
+  height: 1093px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.image5 {
+  width: 1920px;
+  height: 1093px;
+  position: static;
+}
+.background18 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1920px;
+  height: 1093px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.photo4 {
+  width: 1972px;
+  height: 1315px;
+  position: absolute;
+  left: -25px;
+  top: -119px;
+}
+.photo5 {
+  width: 1830px;
+  height: 1221px;
+  position: absolute;
+  left: 1859px;
+  top: 235px;
+  box-shadow: 36px 34px 36px 0px rgba(0, 0, 0, 0.26);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.display-text {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 593px;
+  position: absolute;
+  left: 260px;
+  top: 475px;
+}
+.sub-content6 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 593px;
+  position: relative;
+}
+.sep {
+  flex-shrink: 0;
+  width: 95px;
+  height: 44px;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.content16 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 593px;
+  position: relative;
+}
+.your-trusted-legal-neighbors-protecting-your-best-interests {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 65px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: relative;
+}
+.deeply-rooted-in-our-community-we-fight-for-your-rights-with-our-expert-knowledge-and-unwavering-dedication {
+  color: #ccaa60;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 593px;
+}
+.button15 {
+  background: #d1b06b;
+  padding: 28px 82px 29px 82px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.get-in-touch {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  position: relative;
+}
+.header {
+  width: 1400.44px;
+  height: 155px;
+  position: absolute;
+  left: 262px;
+  top: 47px;
+}
+._15 {
+  width: 1400.44px;
+  height: 85px;
+  position: absolute;
+  left: 113px;
+  top: 14px;
+}
+.button16 {
+  display: flex;
+  flex-direction: row;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 452px;
+  height: 85px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.button17 {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 28px 45px 29px 45px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1002px;
+  top: 0px;
+}
+.book-a-consultation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+}
+._25 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 1400px;
+  height: auto;
+  position: absolute;
+  left: 0.22px;
+  top: 123px;
+  overflow: visible;
+}
+.logo-12345-1-3 {
+  width: 239px;
+  height: 112.58px;
+  position: absolute;
+  left: 0px;
+  top: -14px;
+  object-fit: cover;
+}
+.line10 {
+  border-style: solid;
+  border-color: #4e555f;
+  border-width: 1px 0 0 0;
+  width: 1400px;
+  height: 0px;
+  position: absolute;
+  left: 260.22px;
+  top: 303px;
+}
+.menubar {
+  display: flex;
+  flex-direction: row;
+  gap: 399px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 752px;
+  position: absolute;
+  left: 257px;
+  top: 202px;
+}
+.menu {
+  flex-shrink: 0;
+  width: 703px;
+  height: 28px;
+  position: static;
+}
+.home-about-us-legal-services-membership-training-skills {
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 17px;
+}
+.home-about-us-legal-services-membership-training-skills-span {
+  color: #ccaa60;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.home-about-us-legal-services-membership-training-skills-span2 {
+  color: #ffffff;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.contact3 {
+  flex-shrink: 0;
+  width: 311px;
+  height: 62px;
+  position: relative;
+}
+.call {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ccaa60;
+  border-width: 2px;
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  left: -193px;
+  top: 0px;
+}
+.find-a-lawyer {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: -119px;
+  top: 18px;
+}
+.mail2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-13 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ccaa60;
+  border-width: 2px;
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  left: 65px;
+  top: 0px;
+}
+.join-our-network {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 139px;
+  top: 18px;
+}
+.network-1-svgrepo-com {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 81px;
+  top: 16px;
+  overflow: hidden;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  right: 3.77%;
+  left: 3.78%;
+  width: 92.45%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.background19 {
+  width: 1920px;
+  height: 1110px;
+  position: absolute;
+  left: 0px;
+  top: 7971px;
+  overflow: visible;
+}
+.content17 {
+  display: flex;
+  flex-direction: column;
+  gap: 91px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1402.01px;
+  position: absolute;
+  left: 257px;
+  top: 8227px;
+}
+.content18 {
+  display: flex;
+  flex-direction: row;
+  gap: 289px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1397px;
+  height: 407px;
+  position: relative;
+}
+.quick-link {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 290px;
+  position: relative;
+}
+.title3 {
+  flex-shrink: 0;
+  width: 290px;
+  height: 91px;
+  position: static;
+}
+.line11 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 290px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 91px;
+}
+.quick-link2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 1px;
+  top: 24px;
+}
+.line12 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 290px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.content19 {
+  display: flex;
+  flex-direction: row;
+  gap: 49px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 287px;
+  position: relative;
+}
+.home-about-contact-blog-lawyers {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+  width: 96px;
+}
+.find-a-lawyer-legal-protection-practice-areas-lawyer-registration {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+  width: 185px;
+}
+.practis-aera {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 161px;
+  position: relative;
+}
+.title4 {
+  flex-shrink: 0;
+  width: 161px;
+  height: 91px;
+  position: static;
+}
+.practice-area {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 24px;
+}
+.line13 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 160px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 91px;
+}
+.line14 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 160px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.banking-law-posh-law-family-law-real-estate-law-consumer-law {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+  width: 159px;
+}
+.button18 {
+  background: #d1b06b;
+  padding: 8.6px 27.04px 8.91px 27.04px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.07px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.more2 {
+  color: #1f2732;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 9.83147144317627px;
+  font-weight: 500;
+  position: relative;
+  width: 26.42px;
+  height: 11.67px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.contact4 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 327px;
+  position: relative;
+}
+.title5 {
+  flex-shrink: 0;
+  width: 327px;
+  height: 91px;
+  position: static;
+}
+.conatct-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 114.6%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 24px;
+}
+.line15 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 326px;
+  height: 0px;
+  position: absolute;
+  left: 1px;
+  top: 91px;
+}
+.line16 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  width: 326px;
+  height: 0px;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+}
+.xyz-street-new-delhi-pincode-phone-011-9876-54321-email-info-example-com {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+  width: 326px;
+}
+.copyright {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1402.01px;
+  position: relative;
+}
+.line17 {
+  border-style: solid;
+  border-color: #3a4553;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 1400px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bottom-section {
+  display: flex;
+  flex-direction: row;
+  gap: 408px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1402.01px;
+  position: relative;
+}
+.copyright-lyds-legal {
+  color: #d7d7d7;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+  width: 719px;
+}
+.follow {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 238.01px;
+  position: relative;
+}
+.follow2 {
+  color: #d1b06b;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 400;
+  position: relative;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 158.01px;
+  position: relative;
+}
+.insta {
+  flex-shrink: 0;
+  width: 19.58px;
+  height: 18.85px;
+  position: relative;
+  overflow: visible;
+}
+.fb {
+  flex-shrink: 0;
+  width: 19.58px;
+  height: 18.74px;
+  position: relative;
+  overflow: visible;
+}
+.twiter {
+  flex-shrink: 0;
+  width: 20.97px;
+  height: 16.78px;
+  position: relative;
+  overflow: visible;
+}
+.pintrest {
+  flex-shrink: 0;
+  width: 19.89px;
+  height: 19.89px;
+  position: relative;
+  overflow: visible;
+}
+.logo-12345-1-32 {
+  width: 300px;
+  height: 141.32px;
+  position: absolute;
+  left: 808px;
+  top: 8017px;
+  object-fit: cover;
+}
+.line-65 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 455.53px;
+  height: 0px;
+  position: absolute;
+  left: 1189px;
+  top: 8131px;
+}
+.line-55 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 455.53px;
+  height: 0px;
+  position: absolute;
+  left: 1189px;
+  top: 8121px;
+}
+.group-43 {
+  width: 9.06px;
+  height: 44px;
+  position: absolute;
+  left: 1227.96px;
+  top: 8104px;
+  overflow: visible;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 45px;
+  align-items: center;
+  justify-content: center;
+  width: 1399px;
+  position: absolute;
+  left: -202px;
+  top: 8104px;
+}
+.icon11 {
+  flex-shrink: 0;
+  width: 455.53px;
+  height: 44px;
+  position: static;
+}
+.line-66 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 455.53px;
+  height: 0px;
+  position: absolute;
+  left: 927.26px;
+  top: 17px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.line-56 {
+  border-style: solid;
+  border-color: #d1b06b;
+  border-width: 1px 0 0 0;
+  width: 455.53px;
+  height: 0px;
+  position: absolute;
+  left: 927.26px;
+  top: 27px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.group-44 {
+  width: 9.06px;
+  height: 44px;
+  position: absolute;
+  left: 888.3px;
+  top: 44px;
+  transform: translate(-9.06px, -44px);
+  overflow: visible;
+}
+.find-location-svgrepo-com {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1185px;
+  top: 221px;
+  overflow: hidden;
+}
+.group3 {
+  height: auto;
+  position: absolute;
+  right: 0.03%;
+  left: 0.13%;
+  width: 99.84%;
+  bottom: 0.01%;
+  top: 0%;
+  height: 99.99%;
+  overflow: visible;
+}
